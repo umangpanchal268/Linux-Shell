@@ -1,0 +1,1911 @@
+MIME-Version: 1.0
+Content-Type: multipart/related; boundary="----=_NextPart_01D0453E.4FE23CA0"
+
+This document is a Single File Web Page, also known as a Web Archive file.  If you are seeing this message, your browser or editor doesn't support Web Archive files.  Please download a browser that supports Web Archive, such as Windows® Internet Explorer®.
+
+------=_NextPart_01D0453E.4FE23CA0
+Content-Location: file:///C:/C913CB14/Shell-handout.htm
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/html; charset="us-ascii"
+
+<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
+xmlns:o=3D"urn:schemas-microsoft-com:office:office"
+xmlns:w=3D"urn:schemas-microsoft-com:office:word"
+xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
+xmlns=3D"http://www.w3.org/TR/REC-html40">
+
+<head>
+<meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dus-ascii">
+<meta name=3DProgId content=3DWord.Document>
+<meta name=3DGenerator content=3D"Microsoft Word 14">
+<meta name=3DOriginator content=3D"Microsoft Word 14">
+<link rel=3DFile-List href=3D"Shell-handout_files/filelist.xml">
+<!--[if gte mso 9]><xml>
+ <o:DocumentProperties>
+  <o:Author>200391003</o:Author>
+  <o:Template>Normal</o:Template>
+  <o:LastAuthor>AM</o:LastAuthor>
+  <o:Revision>11</o:Revision>
+  <o:TotalTime>22</o:TotalTime>
+  <o:Created>2013-03-04T11:10:00Z</o:Created>
+  <o:LastSaved>2015-02-10T09:01:00Z</o:LastSaved>
+  <o:Pages>3</o:Pages>
+  <o:Words>1884</o:Words>
+  <o:Characters>10744</o:Characters>
+  <o:Company>DAIICT</o:Company>
+  <o:Lines>89</o:Lines>
+  <o:Paragraphs>25</o:Paragraphs>
+  <o:CharactersWithSpaces>12603</o:CharactersWithSpaces>
+  <o:Version>14.00</o:Version>
+ </o:DocumentProperties>
+</xml><![endif]-->
+<link rel=3DthemeData href=3D"Shell-handout_files/themedata.thmx">
+<link rel=3DcolorSchemeMapping href=3D"Shell-handout_files/colorschememappi=
+ng.xml">
+<!--[if gte mso 9]><xml>
+ <w:WordDocument>
+  <w:Zoom>110</w:Zoom>
+  <w:SpellingState>Clean</w:SpellingState>
+  <w:GrammarState>Clean</w:GrammarState>
+  <w:TrackMoves>false</w:TrackMoves>
+  <w:TrackFormatting/>
+  <w:ValidateAgainstSchemas/>
+  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
+  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
+  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
+  <w:DoNotPromoteQF/>
+  <w:LidThemeOther>EN-US</w:LidThemeOther>
+  <w:LidThemeAsian>X-NONE</w:LidThemeAsian>
+  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
+  <w:Compatibility>
+   <w:BreakWrappedTables/>
+   <w:SplitPgBreakAndParaMark/>
+  </w:Compatibility>
+  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
+  <m:mathPr>
+   <m:mathFont m:val=3D"Cambria Math"/>
+   <m:brkBin m:val=3D"before"/>
+   <m:brkBinSub m:val=3D"&#45;-"/>
+   <m:smallFrac m:val=3D"off"/>
+   <m:dispDef/>
+   <m:lMargin m:val=3D"0"/>
+   <m:rMargin m:val=3D"0"/>
+   <m:defJc m:val=3D"centerGroup"/>
+   <m:wrapIndent m:val=3D"1440"/>
+   <m:intLim m:val=3D"subSup"/>
+   <m:naryLim m:val=3D"undOvr"/>
+  </m:mathPr></w:WordDocument>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <w:LatentStyles DefLockedState=3D"false" DefUnhideWhenUsed=3D"false"
+  DefSemiHidden=3D"false" DefQFormat=3D"false" LatentStyleCount=3D"267">
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Normal"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 1"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"heading 2"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 3"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 4"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 5"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 6"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 7"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 8"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"heading 9"/>
+  <w:LsdException Locked=3D"false" SemiHidden=3D"true" UnhideWhenUsed=3D"tr=
+ue"
+   QFormat=3D"true" Name=3D"caption"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" Name=3D"Default Paragraph=
+ Font"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Subtitle"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Strong"/>
+  <w:LsdException Locked=3D"false" QFormat=3D"true" Name=3D"Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" Name=3D"No List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true"
+   Name=3D"Placeholder Text"/>
+  <w:LsdException Locked=3D"false" Priority=3D"1" QFormat=3D"true" Name=3D"=
+No Spacing"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"99" SemiHidden=3D"true" Name=
+=3D"Revision"/>
+  <w:LsdException Locked=3D"false" Priority=3D"34" QFormat=3D"true"
+   Name=3D"List Paragraph"/>
+  <w:LsdException Locked=3D"false" Priority=3D"29" QFormat=3D"true" Name=3D=
+"Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"30" QFormat=3D"true"
+   Name=3D"Intense Quote"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 1"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 2"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 3"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 4"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 5"/>
+  <w:LsdException Locked=3D"false" Priority=3D"60" Name=3D"Light Shading Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"61" Name=3D"Light List Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"62" Name=3D"Light Grid Accen=
+t 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"63" Name=3D"Medium Shading 1=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"64" Name=3D"Medium Shading 2=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"65" Name=3D"Medium List 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"66" Name=3D"Medium List 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"67" Name=3D"Medium Grid 1 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"68" Name=3D"Medium Grid 2 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"69" Name=3D"Medium Grid 3 Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"70" Name=3D"Dark List Accent=
+ 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"71" Name=3D"Colorful Shading=
+ Accent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"72" Name=3D"Colorful List Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"73" Name=3D"Colorful Grid Ac=
+cent 6"/>
+  <w:LsdException Locked=3D"false" Priority=3D"19" QFormat=3D"true"
+   Name=3D"Subtle Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"21" QFormat=3D"true"
+   Name=3D"Intense Emphasis"/>
+  <w:LsdException Locked=3D"false" Priority=3D"31" QFormat=3D"true"
+   Name=3D"Subtle Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"32" QFormat=3D"true"
+   Name=3D"Intense Reference"/>
+  <w:LsdException Locked=3D"false" Priority=3D"33" QFormat=3D"true" Name=3D=
+"Book Title"/>
+  <w:LsdException Locked=3D"false" Priority=3D"37" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" Name=3D"Bibliography"/>
+  <w:LsdException Locked=3D"false" Priority=3D"39" SemiHidden=3D"true"
+   UnhideWhenUsed=3D"true" QFormat=3D"true" Name=3D"TOC Heading"/>
+ </w:LatentStyles>
+</xml><![endif]-->
+<style>
+<!--
+ /* Font Definitions */
+ @font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;
+	mso-font-alt:\BC14\D0D5;
+	mso-font-charset:129;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:Batang;
+	panose-1:2 3 6 0 0 1 1 1 1 1;
+	mso-font-alt:\BC14\D0D5;
+	mso-font-charset:129;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:"\@Batang";
+	panose-1:2 3 6 0 0 1 1 1 1 1;
+	mso-font-charset:129;
+	mso-generic-font-family:roman;
+	mso-font-pitch:variable;
+	mso-font-signature:-1342176593 1775729915 48 0 524447 0;}
+@font-face
+	{font-family:Consolas;
+	panose-1:2 11 6 9 2 2 4 3 2 4;
+	mso-font-charset:0;
+	mso-generic-font-family:modern;
+	mso-font-pitch:fixed;
+	mso-font-signature:-520092929 1073806591 9 0 415 0;}
+@font-face
+	{font-family:Algerian;
+	panose-1:4 2 7 5 4 10 2 6 7 2;
+	mso-font-charset:0;
+	mso-generic-font-family:decorative;
+	mso-font-pitch:variable;
+	mso-font-signature:3 0 0 0 1 0;}
+ /* Style Definitions */
+ p.MsoNormal, li.MsoNormal, div.MsoNormal
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-parent:"";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+h1
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 1 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:1;
+	font-size:24.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Batang;
+	font-weight:bold;}
+h2
+	{mso-style-unhide:no;
+	mso-style-qformat:yes;
+	mso-style-link:"Heading 2 Char";
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	mso-outline-level:2;
+	font-size:18.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:Batang;
+	font-weight:bold;}
+a:link, span.MsoHyperlink
+	{mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+a:visited, span.MsoHyperlinkFollowed
+	{mso-style-unhide:no;
+	color:blue;
+	text-decoration:underline;
+	text-underline:single;}
+p
+	{mso-style-unhide:no;
+	mso-margin-top-alt:auto;
+	margin-right:0in;
+	mso-margin-bottom-alt:auto;
+	margin-left:0in;
+	mso-pagination:widow-orphan;
+	font-size:12.0pt;
+	font-family:"Times New Roman","serif";
+	mso-fareast-font-family:"Times New Roman";}
+code
+	{mso-style-unhide:no;
+	font-family:"Courier New";
+	mso-ascii-font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";
+	mso-hansi-font-family:"Courier New";
+	mso-bidi-font-family:"Courier New";}
+pre
+	{mso-style-unhide:no;
+	mso-style-link:"HTML Preformatted Char";
+	margin:0in;
+	margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt 366.4pt 41=
+2.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt;
+	font-size:10.0pt;
+	font-family:"Courier New";
+	mso-fareast-font-family:"Times New Roman";}
+span.Heading1Char
+	{mso-style-name:"Heading 1 Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 1";
+	mso-ansi-font-size:14.0pt;
+	mso-bidi-font-size:14.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#365F91;
+	mso-themecolor:accent1;
+	mso-themeshade:191;
+	font-weight:bold;}
+span.Heading2Char
+	{mso-style-name:"Heading 2 Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"Heading 2";
+	mso-ansi-font-size:13.0pt;
+	mso-bidi-font-size:13.0pt;
+	font-family:"Cambria","serif";
+	mso-ascii-font-family:Cambria;
+	mso-ascii-theme-font:major-latin;
+	mso-fareast-font-family:"Times New Roman";
+	mso-fareast-theme-font:major-fareast;
+	mso-hansi-font-family:Cambria;
+	mso-hansi-theme-font:major-latin;
+	mso-bidi-font-family:"Times New Roman";
+	mso-bidi-theme-font:major-bidi;
+	color:#4F81BD;
+	mso-themecolor:accent1;
+	font-weight:bold;}
+span.HTMLPreformattedChar
+	{mso-style-name:"HTML Preformatted Char";
+	mso-style-unhide:no;
+	mso-style-locked:yes;
+	mso-style-link:"HTML Preformatted";
+	font-family:Consolas;
+	mso-ascii-font-family:Consolas;
+	mso-hansi-font-family:Consolas;
+	mso-bidi-font-family:Consolas;}
+span.SpellE
+	{mso-style-name:"";
+	mso-spl-e:yes;}
+span.GramE
+	{mso-style-name:"";
+	mso-gram-e:yes;}
+.MsoChpDefault
+	{mso-style-type:export-only;
+	mso-default-props:yes;
+	font-size:10.0pt;
+	mso-ansi-font-size:10.0pt;
+	mso-bidi-font-size:10.0pt;}
+@page WordSection1
+	{size:8.5in 11.0in;
+	margin:1.0in 1.25in 1.0in 1.25in;
+	mso-header-margin:.5in;
+	mso-footer-margin:.5in;
+	mso-paper-source:0;}
+div.WordSection1
+	{page:WordSection1;}
+ /* List Definitions */
+ @list l0
+	{mso-list-id:224685843;
+	mso-list-template-ids:-275770388;}
+@list l0:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l0:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l0:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1
+	{mso-list-id:239096651;
+	mso-list-type:hybrid;
+	mso-list-template-ids:1084121346 67698689 67698691 67698693 67698689 67698=
+691 67698693 67698689 67698691 67698693;}
+@list l1:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	font-family:Symbol;}
+@list l1:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l1:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2
+	{mso-list-id:350841244;
+	mso-list-template-ids:-1207152034;}
+@list l2:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l2:level2
+	{mso-level-number-format:bullet;
+	mso-level-text:o;
+	mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:"Courier New";
+	mso-bidi-font-family:"Times New Roman";}
+@list l2:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l2:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3
+	{mso-list-id:551618890;
+	mso-list-template-ids:-15143454;}
+@list l3:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l3:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l3:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4
+	{mso-list-id:962462026;
+	mso-list-template-ids:1062912626;}
+@list l4:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l4:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l4:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5
+	{mso-list-id:1185024577;
+	mso-list-template-ids:13288284;}
+@list l5:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l5:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l5:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6
+	{mso-list-id:1436485007;
+	mso-list-template-ids:-81121210;}
+@list l6:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l6:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l6:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7
+	{mso-list-id:2099209586;
+	mso-list-template-ids:323792244;}
+@list l7:level1
+	{mso-level-number-format:bullet;
+	mso-level-text:\F0B7;
+	mso-level-tab-stop:.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;
+	mso-ansi-font-size:10.0pt;
+	font-family:Symbol;}
+@list l7:level2
+	{mso-level-tab-stop:1.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level3
+	{mso-level-tab-stop:1.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level4
+	{mso-level-tab-stop:2.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level5
+	{mso-level-tab-stop:2.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level6
+	{mso-level-tab-stop:3.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level7
+	{mso-level-tab-stop:3.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level8
+	{mso-level-tab-stop:4.0in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+@list l7:level9
+	{mso-level-tab-stop:4.5in;
+	mso-level-number-position:left;
+	text-indent:-.25in;}
+ol
+	{margin-bottom:0in;}
+ul
+	{margin-bottom:0in;}
+-->
+</style>
+<!--[if gte mso 10]>
+<style>
+ /* Style Definitions */
+ table.MsoNormalTable
+	{mso-style-name:"Table Normal";
+	mso-tstyle-rowband-size:0;
+	mso-tstyle-colband-size:0;
+	mso-style-noshow:yes;
+	mso-style-priority:99;
+	mso-style-parent:"";
+	mso-padding-alt:0in 5.4pt 0in 5.4pt;
+	mso-para-margin:0in;
+	mso-para-margin-bottom:.0001pt;
+	mso-pagination:widow-orphan;
+	font-size:10.0pt;
+	font-family:"Times New Roman","serif";}
+</style>
+<![endif]--><!--[if gte mso 9]><xml>
+ <o:shapedefaults v:ext=3D"edit" spidmax=3D"1026"/>
+</xml><![endif]--><!--[if gte mso 9]><xml>
+ <o:shapelayout v:ext=3D"edit">
+  <o:idmap v:ext=3D"edit" data=3D"1"/>
+ </o:shapelayout></xml><![endif]-->
+</head>
+
+<body lang=3DEN-US link=3Dblue vlink=3Dblue style=3D'tab-interval:.5in'>
+
+<div class=3DWordSection1>
+
+<h1><i style=3D'mso-bidi-font-style:normal'><span style=3D'font-family:Alge=
+rian'>2015
+Winter of Code</span></i> <i style=3D'mso-bidi-font-style:normal'>Project
+#1:&nbsp; Unix <span class=3DGramE>Shell<span style=3D'font-style:normal'><=
+span
+style=3D'mso-spacerun:yes'>&nbsp; </span>(</span></span></i>Due: 11:55 pm,
+Sunday, March 1)</h1>
+
+<h2>Introduction</h2>
+
+<p>The purpose of this assignment is to become more familiar with the conce=
+pts
+of process control and signaling.&nbsp; You&#8217;ll do this by writing a
+simple <span class=3DGramE>Unix</span> shell program that supports job
+control.&nbsp; </p>
+
+<h2>Hand Out Instructions</h2>
+
+<p>Copy the file <code><span style=3D'font-size:10.0pt'>shlab-handout.tar</=
+span></code>
+to the protected directory in which you plan to do your work.&nbsp; Then do=
+ the
+following: </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l0 level1 lfo1;tab-stops:list .5in'>Type the command <i>tar <=
+span
+     class=3DSpellE>xvf</span> shlab-handout.tar</i> to expand the <span
+     class=3DSpellE>tarfile</span>.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l0 level1 lfo1;tab-stops:list .5in'><span class=3DGramE>Type =
+the
+     command <i>make</i></span> to compile and link some test routines.&nbs=
+p; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l0 level1 lfo1;tab-stops:list .5in'>Type your name and ID in =
+the
+     header comment at the top of <span class=3DSpellE><code><span
+     style=3D'font-size:10.0pt'>tsh.c</span></code></span>.&nbsp; </li>
+</ul>
+
+<p>Looking at the <span class=3DSpellE><code><span style=3D'font-size:10.0p=
+t'>tsh.c</span></code></span>
+(tiny shell) file, you will see that it contains a functional skeleton of a
+simple <span class=3DGramE>Unix</span> shell.&nbsp; To help you get started=
+, we
+have already implemented the less interesting functions.&nbsp; Your assignm=
+ent
+is to complete the remaining empty functions.&nbsp; As a sanity check for y=
+ou,
+we&#8217;ve listed the approximate number of lines of code for each of these
+functions in our reference solution (which includes lots of comments).&nbsp=
+; </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><span
+     class=3DGramE><code><span style=3D'font-size:10.0pt'>eval</span></code=
+></span></span>:
+     Main routine that parses and interprets the command line.&nbsp; [80 li=
+nes]
+     </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>builtin_cmd</span></code></span>: Recognize=
+s and
+     interprets the built-in commands <code><span style=3D'font-size:10.0pt=
+'>quit</span></code>,
+     <span class=3DSpellE><span class=3DGramE><code><span style=3D'font-siz=
+e:10.0pt'>fg</span></code></span></span>,
+     <span class=3DSpellE><code><span style=3D'font-size:10.0pt'>bg</span><=
+/code></span>,
+     and <code><span style=3D'font-size:10.0pt'>jobs</span></code>.&nbsp; [=
+30
+     lines] </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>do_bgfg</span></code></span>: Implements th=
+e <span
+     class=3DSpellE><span class=3DGramE><code><span style=3D'font-size:10.0=
+pt'>bg</span></code></span></span>
+     and <span class=3DSpellE><code><span style=3D'font-size:10.0pt'>fg</sp=
+an></code></span>
+     built-in commands.&nbsp; [50 lines] </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><span
+     class=3DGramE><code><span style=3D'font-size:10.0pt'>waitfg</span></co=
+de></span></span>:
+     Waits for a foreground job to complete.&nbsp; [25 lines] </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>sigchld_handler</span></code></span>: Catch=
+es
+     SIGCHILD signals.&nbsp; [75 lines] </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>sigint_handler</span></code></span>: Catches
+     SIGINT (<code><span style=3D'font-size:10.0pt'>ctrl-c</span></code>)
+     signals.&nbsp; [20 lines] </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l6 level1 lfo2;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>sigtstp_handler</span></code></span>: Catch=
+es
+     SIGTSTP (<i>ctrl-z</i>) signals.&nbsp; [20 lines] </li>
+</ul>
+
+<p>Each time you modify your <span class=3DSpellE><code><span style=3D'font=
+-size:
+10.0pt'>tsh.c</span></code></span> file, type <code><span style=3D'font-siz=
+e:
+10.0pt'>make</span></code> to recompile it.&nbsp; To run your shell, <span
+class=3DGramE>type <code><span style=3D'font-size:10.0pt'>./</span></code><=
+/span><span
+class=3DSpellE><code><span style=3D'font-size:10.0pt'>tsh</span></code></sp=
+an> to
+the command line: </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; ./<span class=3DS=
+pellE>tsh</span></pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nb=
+sp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; <code>[type comman=
+ds to your shell here]</code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>If
+you want to exit your shell, but have not implemented the appropriate comma=
+nds,
+you can type <code><span style=3D'font-size:10.0pt'>ctrl-D</span></code> to=
+ kill
+your shell.&nbsp; </p>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+General
+Overview of <span class=3DGramE>Unix</span> Shells</h2>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>A
+<i>shell</i> is an interactive command-line interpreter that runs programs =
+on
+behalf of the user.&nbsp; A shell repeatedly prints a prompt, waits for a <=
+i>command
+line</i> on <span class=3DSpellE><i>stdin</i></span>, and then carries out =
+some
+action, as directed by the contents of the command line.&nbsp; </p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>T=
+he
+command line is a sequence of ASCII text words delimited by whitespace.&nbs=
+p;
+The first word in the command line is either the name of a built-in command=
+ or
+the pathname of an executable file.&nbsp; The remaining words are command-l=
+ine
+arguments.&nbsp; If the first word is a built-in command, the shell immedia=
+tely
+executes the command in the current process.&nbsp; Otherwise, the word is
+assumed to be the pathname of an executable program.&nbsp; In this case, the
+shell forks a child process, then loads and runs the program in the context=
+ of
+the child.&nbsp; The child processes created as a result of interpreting a
+single command line are known collectively as a <i>job</i>.&nbsp; In genera=
+l, a
+job can consist of multiple child processes connected by <span class=3DGram=
+E>Unix</span>
+pipes.&nbsp; </p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>If
+the command line ends with an ampersand &amp;, then the job runs in the <i>=
+background</i>,
+which means that the shell does not wait for the job to terminate before
+printing the prompt and awaiting the next command line.&nbsp; Otherwise, the
+job runs in the <i>foreground</i>, which means that the shell waits for the=
+ job
+to terminate before prompting for the next command line.&nbsp; Thus, at any
+point in time, at most one job can be running in the foreground.&nbsp; Howe=
+ver,
+an arbitrary number of jobs can run in the background.&nbsp; </p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>F=
+or
+example, typing the command line </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; <code>jobs</code><=
+/pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+class=3DGramE>causes</span> the shell to execute the built-in <code><span
+style=3D'font-size:10.0pt'>jobs</span></code> command.&nbsp; Typing the com=
+mand
+line </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; <code>/bin/<span
+class=3DSpellE>ls</span> -l -d</code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+class=3DGramE>runs</span> the <span class=3DSpellE><code><span style=3D'fon=
+t-size:
+10.0pt'>ls</span></code></span> program in the foreground.&nbsp; By convent=
+ion,
+the shell ensures that when <span class=3DSpellE><code><span style=3D'font-=
+size:
+10.0pt'>ls</span></code></span> <span class=3DGramE>begins</span> executing=
+ its
+main routine: </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>int</span></span> main(<span class=3DSpe=
+llE>int</span> <span
+class=3DSpellE>argc</span>, char *<span class=3DSpellE>argv</span>[])</pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+class=3DGramE>the</span> <span class=3DSpellE><code><span style=3D'font-siz=
+e:10.0pt'>argc</span></code></span>
+and <span class=3DSpellE><code><span style=3D'font-size:10.0pt'>argv</span>=
+</code></span>
+arguments have the following values: </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l3 level1 lfo3;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>argc</span></code></span><code><span
+     style=3D'font-size:10.0pt'> =3D=3D 3</span></code> </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l3 level1 lfo3;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>argv</span></code></span><code><span
+     style=3D'font-size:10.0pt'>[0] =3D=3D &quot;/bin/<span class=3DSpellE>=
+ls</span>&quot;</span></code>
+     </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l3 level1 lfo3;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>argv</span></code></span><code><span
+     style=3D'font-size:10.0pt'>[1] =3D=3D &quot;-l&quot;</span></code> </l=
+i>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l3 level1 lfo3;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>argv</span></code></span><code><span
+     style=3D'font-size:10.0pt'>[2] =3D=3D &quot;-d&quot;</span></code> </l=
+i>
+</ul>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>Alternatively,
+typing the command line </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; <code>/bin/<span
+class=3DSpellE>ls</span> -l -d &amp;</code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+class=3DGramE>runs</span> the <span class=3DSpellE><code><span style=3D'fon=
+t-size:
+10.0pt'>ls</span></code></span> program in the background.&nbsp; </p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
+span
+class=3DGramE>Unix</span> shells support the notion of <i>job control</i>, =
+which
+allows users to move jobs back and forth between background and foreground,=
+ and
+to change the process state (running, stopped, or terminated) of the proces=
+ses
+in a job.&nbsp; Typing <i>ctrl-c</i> causes a SIGINT signal to be delivered=
+ to
+each process in the foreground job.&nbsp; The default action for SIGINT is =
+to
+terminate the process.&nbsp; Similarly, typing <i>ctrl-z</i> causes a SIGTS=
+TP
+signal to be delivered to each process in the foreground job.&nbsp; The def=
+ault
+action for SIGTSTP is to place a process in the stopped state, where it rem=
+ains
+until it is awakened by the receipt of a SIGCONT signal.&nbsp; <span
+class=3DGramE>Unix</span> shells also provide various built-in commands that
+support job control.&nbsp; For example: </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l5 level1 lfo4;tab-stops:list .5in'><span class=3DGramE><code=
+><span
+     style=3D'font-size:10.0pt'>jobs</span></code></span>: List the running=
+ and
+     stopped background jobs.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l5 level1 lfo4;tab-stops:list .5in'><span class=3DSpellE><span
+     class=3DGramE><code><span style=3D'font-size:10.0pt'>bg</span></code><=
+/span></span><code><span
+     style=3D'font-size:10.0pt'> &lt;job&gt;</span></code>: Change a stopped
+     background job to a running background job.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l5 level1 lfo4;tab-stops:list .5in'><span class=3DSpellE><span
+     class=3DGramE><code><span style=3D'font-size:10.0pt'>fg</span></code><=
+/span></span><code><span
+     style=3D'font-size:10.0pt'> &lt;job&gt;</span></code>: Change a stoppe=
+d or
+     running background job to a running foreground job.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l5 level1 lfo4;tab-stops:list .5in'><span class=3DGramE><code=
+><span
+     style=3D'font-size:10.0pt'>kill</span></code></span><code><span
+     style=3D'font-size:10.0pt'> &lt;job&gt;</span></code>: Terminate a
+     job.&nbsp; </li>
+</ul>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+The
+<span class=3DSpellE><span class=3DGramE><code><span style=3D'font-size:10.=
+0pt;
+mso-fareast-font-family:Batang'>tsh</span></code></span></span> Specificati=
+on</h2>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Y=
+our
+<span class=3DSpellE><span class=3DGramE><code><span style=3D'font-size:10.=
+0pt'>tsh</span></code></span></span>
+shell should have the following features: </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo5;tab-stops:list .5in'>The prompt should be the
+     string &#8220;<span class=3DSpellE><code><span style=3D'font-size:10.0=
+pt'>tsh</span></code></span><span
+     class=3DGramE><code><span style=3D'font-size:10.0pt'>&gt; </span></cod=
+e>&#8221;</span>.
+     </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo5;tab-stops:list .5in'>The command line typed by=
+ the
+     user should consist of a <i>name</i> and zero or more arguments, all
+     separated by one or more spaces.&nbsp; If <i>name</i> is a built-in
+     command, then <span class=3DSpellE><span class=3DGramE><code><span
+     style=3D'font-size:10.0pt'>tsh</span></code></span></span> should hand=
+le it
+     immediately and wait for the next command line.&nbsp; Otherwise, <span
+     class=3DSpellE><span class=3DGramE><code><span style=3D'font-size:10.0=
+pt'>tsh</span></code></span></span>
+     should assume that <i>name</i> is the path of an executable file, whic=
+h it
+     loads and runs in the context of an initial child process (In this
+     context, the term <i>job</i> refers to this initial child process).&nb=
+sp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo5;tab-stops:list .5in'><span class=3DSpellE><span
+     class=3DGramE><code><span style=3D'font-size:10.0pt'>tsh</span></code>=
+</span></span>
+     need not support pipes (<code><span style=3D'font-size:10.0pt'>|</span=
+></code>)
+     or I/O redirection (<code><span style=3D'font-size:10.0pt'>&lt;</span>=
+</code>
+     and <code><span style=3D'font-size:10.0pt'>&gt;</span></code>).</li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo5;tab-stops:list .5in'>Typing <i>ctrl-c</i> (<i>=
+ctrl-z</i>)
+     should cause a SIGINT (SIGTSTP) signal to be sent to the current
+     foreground job, as well as any descendents of that job (e.g., any child
+     processes that it forked).&nbsp; If there is no foreground job, then t=
+he
+     signal should have no effect.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo5;tab-stops:list .5in'>If the command line ends =
+with
+     an ampersand, then <span class=3DSpellE><span class=3DGramE><code><span
+     style=3D'font-size:10.0pt'>tsh</span></code></span></span> should run =
+the
+     job in the background.&nbsp; Otherwise, it should run the job in the
+     foreground.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo5;tab-stops:list .5in'>Each job can be identifie=
+d by
+     either a process ID (PID) or a job ID (JID), which is a small positive
+     integer assigned by <span class=3DSpellE><span class=3DGramE><code><sp=
+an
+     style=3D'font-size:10.0pt'>tsh</span></code></span></span>.&nbsp; JIDs
+     should be denoted on the command line by the prefix &#8220;%&#8221;.&n=
+bsp;
+     For example, <span class=3DGramE>&#8220; <i>%</i></span><i>5</i>&#8221;
+     denotes JID 5, and &#8220;<i>5</i>&#8221; denotes PID 5.&nbsp; (We have
+     provided you with all of the routines you need for manipulating the job
+     list.)&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo5;tab-stops:list .5in'><span class=3DSpellE><cod=
+e><span
+     style=3D'font-size:10.0pt'>tsh</span></code></span> should support the
+     following built-in commands: </li>
+ <ul type=3Dcircle>
+  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:
+      auto;mso-list:l2 level2 lfo5;tab-stops:list 1.0in'>The <code><span
+      style=3D'font-size:10.0pt'>quit</span></code> command terminates the
+      shell.&nbsp; </li>
+  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:
+      auto;mso-list:l2 level2 lfo5;tab-stops:list 1.0in'>The <code><span
+      style=3D'font-size:10.0pt'>jobs</span></code> command lists all backg=
+round
+      jobs.&nbsp; </li>
+  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:
+      auto;mso-list:l2 level2 lfo5;tab-stops:list 1.0in'>The <span
+      class=3DSpellE><span class=3DGramE><code><span style=3D'font-size:10.=
+0pt'>bg</span></code></span></span><code><span
+      style=3D'font-size:10.0pt'> &lt;job&gt;</span></code> command restart=
+s <code><span
+      style=3D'font-size:10.0pt'>&lt;job&gt;</span></code> by sending it a
+      SIGCONT signal, and then runs it in the background.&nbsp; The <code><=
+span
+      style=3D'font-size:10.0pt'>&lt;job&gt;</span></code> argument can be =
+either
+      a PID or a JID.&nbsp; </li>
+  <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-=
+alt:
+      auto;mso-list:l2 level2 lfo5;tab-stops:list 1.0in'>The <span
+      class=3DSpellE><span class=3DGramE><code><span style=3D'font-size:10.=
+0pt'>fg</span></code></span></span><code><span
+      style=3D'font-size:10.0pt'> &lt;job&gt;</span></code> command restart=
+s <code><span
+      style=3D'font-size:10.0pt'>&lt;job&gt;</span></code> by sending it a
+      SIGCONT signal, and then runs it in the foreground.&nbsp; </li>
+ </ul>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l2 level1 lfo5;tab-stops:list .5in'><span class=3DSpellE><span
+     class=3DGramE><code><span style=3D'font-size:10.0pt'>tsh</span></code>=
+</span></span>
+     should reap all of its zombie children.&nbsp; If any job terminates
+     because it receives a signal that it didn&#8217;t catch, then <span
+     class=3DSpellE><span class=3DGramE><code><span style=3D'font-size:10.0=
+pt'>tsh</span></code></span></span>
+     should recognize this event and print a message with the job&#8217;s P=
+ID
+     and a description of the offending signal.&nbsp; </li>
+</ul>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Checking
+Your Work</h2>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>We
+have provided some tools to help you check your work.&nbsp; </p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
+span
+class=3DGramE><b>Reference solution.</b></span> The Linux executable <span
+class=3DSpellE><code><span style=3D'font-size:10.0pt'>tshref</span></code><=
+/span>
+is the reference solution for the shell.&nbsp; Run this program to resolve =
+any
+questions you have about how your shell should behave.&nbsp; <i>Your shell
+should emit output that is identical to the reference solution</i> (modulo
+PIDs, of course, which change from run to run).&nbsp; </p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'><=
+b>Shell
+driver.</b> The <code><span style=3D'font-size:10.0pt'>sdriver.pl</span></c=
+ode>
+program executes a shell as a child process, sends it commands and signals =
+as
+directed by a <i>trace file</i>, and captures and displays the output from =
+the
+shell.&nbsp; </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; ./sdriver.pl -h</=
+pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>Usage: =
+sdriver.pl [-<span
+class=3DSpellE>hv</span>] -t &lt;trace&gt; -s &lt;<span class=3DSpellE>shel=
+lprog</span>&gt; -a &lt;<span
+class=3DSpellE>args</span>&gt;</pre><pre><span style=3D'mso-spacerun:yes'>&=
+nbsp;&nbsp;&nbsp; </span>Options:</pre><pre><span style=3D'mso-spacerun:yes=
+'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-h<span style=3D'mso-spacerun:yes'>=
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>P=
+rint this message</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&n=
+bsp;&nbsp;&nbsp; </span>-v<span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span><span
+class=3DGramE>Be</span> more verbose</pre><pre><span style=3D'mso-spacerun:=
+yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-t &lt;trace&gt;<span style=3D'm=
+so-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>Trace file</pre><pre><span style=
+=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-s &lt;shell&gt=
+;<span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>Shell program t=
+o test</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp;&nbsp;&=
+nbsp; </span>-a &lt;<span
+class=3DSpellE>args</span>&gt;<span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;=
+&nbsp;&nbsp; </span>Shell arguments</pre><pre><span style=3D'mso-spacerun:y=
+es'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span>-g<span style=3D'mso-spacerun:yes=
+'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </span=
+>Generate output for <span
+class=3DSpellE>autograder</span></pre>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>We
+have also provided 16 trace files (<span class=3DGramE><code><span
+style=3D'font-size:10.0pt'>trace{</span></code></span><code><span
+style=3D'font-size:10.0pt'>01-16}.txt</span></code>) that you will use in
+conjunction with the shell driver to test the correctness of your shell.&nb=
+sp;
+The lower-numbered trace files do very simple tests, and the higher-numbered
+tests do more complicated tests.&nbsp; </p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>Y=
+ou
+can run the shell driver on your shell using trace file <code><span
+style=3D'font-size:10.0pt'>trace01.txt</span></code> (for instance) by typi=
+ng: </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; <code>./sdriver.p=
+l -t trace01.txt -s ./<span
+class=3DSpellE>tsh</span> -a &quot;-p&quot;</code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+class=3DGramE>or</span> </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; <code>make test01=
+</code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>(The
+<i>-a &#8220;-p&#8221;</i> argument tells your shell not to emit a
+prompt.)&nbsp; And, if you want to run all of the tests on your shell, you =
+can
+type: </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; <code>make tests<=
+/code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>Similarly,
+you can run the trace driver on the reference shell by typing: </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; <code>./sdriver.p=
+l -t trace01.txt -s ./<span
+class=3DSpellE>tshref</span> -a &quot;-p&quot;</code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'><span
+class=3DGramE>or</span> </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; <code>make rtest0=
+1</code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>And
+you can run all the tests on the reference shell by typing </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; <code>make <span
+class=3DSpellE>rtests</span></code></pre>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>For
+your reference, <span class=3DSpellE><code><span style=3D'font-size:10.0pt'=
+>tshref.out</span></code></span>
+gives the output of the reference solution on all 16 traces.&nbsp; This mig=
+ht
+be more convenient for you than running the shell driver.&nbsp; </p>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>T=
+he
+neat thing about the trace files is that they generate the same output you
+would have gotten had you run your shell interactively (except for an initi=
+al
+comment that identifies the trace).&nbsp; For example: </p>
+
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt; make test15</pre>=
+<pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>./sdriver.p=
+l -t trace15.txt -<span
+class=3DGramE>s ./</span><span class=3DSpellE>tsh</span> -a &quot;-p&quot;<=
+/pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>#</pre=
+><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span># trace15.=
+txt - Putting it all together</pre><pre><span style=3D'mso-spacerun:yes'>&n=
+bsp;&nbsp;&nbsp; </span>#</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;=
+&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; ./bogus</pre><pre>=
+<span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DGramE>./</span>bogus: Command not found.</pre><pre><span style=3D'm=
+so-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; ./<span class=3DSp=
+ellE>myspin</span> 10</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbs=
+p;&nbsp; </span>Job (9721) terminated by signal: Interrupt</pre><pre><span =
+style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; ./<span class=3DSp=
+ellE>myspin</span> 3 &amp;</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp=
+;&nbsp;&nbsp; </span>[1] (9723<span
+class=3DGramE>) .</span>/<span class=3DSpellE>myspin</span> 3 &amp;</pre><p=
+re><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; ./<span class=3DSp=
+ellE>myspin</span> 4 &amp;</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp=
+;&nbsp;&nbsp; </span>[2] (9725<span
+class=3DGramE>) .</span>/<span class=3DSpellE>myspin</span> 4 &amp;</pre><p=
+re><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; jobs</pre><pre><sp=
+an style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>[1] (9723) Running<=
+span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DGramE>./</span><span class=3DSpellE>myspin</span> 3 &amp;</pre><pre=
+><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>[2] (9725) Runn=
+ing<span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DGramE>./</span><span class=3DSpellE>myspin</span> 4 &amp;</pre><pre=
+><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; <span class=3DSpel=
+lE>fg</span> %1</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>Job [1] (9723) stopped by signal: Stopped</pre><pre><span style=
+=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; jobs</pre><pre><sp=
+an style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>[1] (9723) Stopped<=
+span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DGramE>./</span><span class=3DSpellE>myspin</span> 3 &amp;</pre><pre=
+><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>[2] (9725) Runn=
+ing<span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DGramE>./</span><span class=3DSpellE>myspin</span> 4 &amp;</pre><pre=
+><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; <span class=3DSpel=
+lE>bg</span> %3</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>%3: No such job</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;=
+&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; <span class=3DSpel=
+lE>bg</span> %1</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span>[1] (9723<span
+class=3DGramE>) .</span>/<span class=3DSpellE>myspin</span> 3 &amp;</pre><p=
+re><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; jobs</pre><pre><sp=
+an style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>[1] (9723) Running<=
+span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DGramE>./</span><span class=3DSpellE>myspin</span> 3 &amp;</pre><pre=
+><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span>[2] (9725) Runn=
+ing<span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DGramE>./</span><span class=3DSpellE>myspin</span> 4 &amp;</pre><pre=
+><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; <span class=3DSpel=
+lE>fg</span> %1</pre><pre><span style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbs=
+p; </span><span
+class=3DSpellE><span class=3DGramE>tsh</span></span>&gt; quit</pre><pre><sp=
+an style=3D'mso-spacerun:yes'>&nbsp;&nbsp;&nbsp; </span><span
+class=3DSpellE><span class=3DGramE>unix</span></span>&gt;</pre>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Hints</h2>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo6;tab-stops:list .5in'>Read every word of Chapte=
+r 8
+     (Exceptional Control Flow) in the textbook.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo6;tab-stops:list .5in'>Use the trace files to gu=
+ide
+     the development of your shell.&nbsp; Starting with <code><span
+     style=3D'font-size:10.0pt'>trace01.txt</span></code>, make sure that y=
+our
+     shell produces the <i>identical</i> output as the reference shell.&nbs=
+p;
+     Then move on to trace file <code><span style=3D'font-size:10.0pt'>trac=
+e02.txt</span></code>,
+     and so on.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo6;tab-stops:list .5in'>The <span class=3DSpellE>=
+<code><span
+     style=3D'font-size:10.0pt'>psignal</span></code></span>, <span class=
+=3DSpellE><code><span
+     style=3D'font-size:10.0pt'>waitpid</span></code></span>, <code><span
+     style=3D'font-size:10.0pt'>kill</span></code>, <code><span style=3D'fo=
+nt-size:
+     10.0pt'>fork</span></code>, <span class=3DSpellE><code><span
+     style=3D'font-size:10.0pt'>execve</span></code></span>, <span class=3D=
+SpellE><code><span
+     style=3D'font-size:10.0pt'>setpgid</span></code></span>, and <span
+     class=3DSpellE><code><span style=3D'font-size:10.0pt'>sigprocmask</spa=
+n></code></span>
+     functions will come in very handy.&nbsp; The WUNTRACED and WNOHANG opt=
+ions
+     to <span class=3DSpellE><code><span style=3D'font-size:10.0pt'>waitpid=
+</span></code></span>
+     will also be useful.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo6;tab-stops:list .5in'>Programs such as <code><s=
+pan
+     style=3D'font-size:10.0pt'>more</span></code>, <code><span style=3D'fo=
+nt-size:
+     10.0pt'>less</span></code>, <span class=3DGramE><code><span
+     style=3D'font-size:10.0pt'>vi</span></code></span>, and <span class=3D=
+SpellE><code><span
+     style=3D'font-size:10.0pt'>emacs</span></code></span> do strange thing=
+s with
+     the terminal settings.&nbsp; Don&#8217;t run these programs from your
+     shell.&nbsp; Stick with simple text-based programs such <code><span
+     style=3D'font-size:10.0pt'>/bin/<span class=3DSpellE>ls</span></span><=
+/code>, <code><span
+     style=3D'font-size:10.0pt'>/bin/<span class=3DSpellE>ps</span></span><=
+/code>,
+     and <code><span style=3D'font-size:10.0pt'>/bin/echo</span></code>.&nb=
+sp; If
+     you run one of these by accident, you <i>may</i> be able to get back to
+     normal by typing <span class=3DSpellE><code><span style=3D'font-size:1=
+0.0pt'>stty</span></code></span><code><span
+     style=3D'font-size:10.0pt'> reset</span></code>.&nbsp; In the worst ca=
+se,
+     you may need to terminate your terminal session.&nbsp; </li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l4 level1 lfo6;tab-stops:list .5in'>When you run your shell f=
+rom the
+     standard <span class=3DGramE>Unix</span> shell, your shell is running =
+in the
+     foreground process group.&nbsp; If your shell then creates a child
+     process, by default that child will also be a member of the foreground
+     process group.&nbsp; Since typing <i>ctrl-c</i> sends a SIGINT to every
+     process in the foreground group, typing <i>ctrl-c</i> will send a SIGI=
+NT
+     to your shell, as well as to every process that your shell created, wh=
+ich
+     obviously isn&#8217;t correct.&nbsp; </li>
+</ul>
+
+<p style=3D'margin-left:.5in;tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0p=
+t 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 6=
+87.0pt 732.8pt'>Here
+is the workaround: After the <code><span style=3D'font-size:10.0pt'>fork</s=
+pan></code>,
+but before the <span class=3DSpellE><code><span style=3D'font-size:10.0pt'>=
+execve</span></code></span>,
+the child process should call <span class=3DSpellE><span class=3DGramE><cod=
+e><span
+style=3D'font-size:10.0pt'>setpgid</span></code></span></span><span class=
+=3DGramE><code><span
+style=3D'font-size:10.0pt'>(</span></code></span><code><span style=3D'font-=
+size:
+10.0pt'>0, 0)</span></code>, which puts the child in a new process group wh=
+ose
+group ID is identical to the child&#8217;s PID.&nbsp; This ensures that the=
+re
+will be only one process, your shell, in the foreground process group.&nbsp;
+When you type <i>ctrl-c</i>, the shell should catch the resulting SIGINT and
+then forward it to the appropriate foreground job (or more precisely, the
+process group that contains the foreground job).&nbsp; </p>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Evaluation</h2>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>Your
+solution shell will be tested for correctness on a Linux machine, using the
+same shell driver and the 16 trace files that were included in your lab
+directory.&nbsp; Your shell should produce <b>identical</b> output on these
+traces as the reference shell, with only two exceptions: </p>
+
+<ul type=3Ddisc>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l7 level1 lfo7;tab-stops:list .5in'>The PIDs can (and will) be
+     different.</li>
+ <li class=3DMsoNormal style=3D'mso-margin-top-alt:auto;mso-margin-bottom-a=
+lt:auto;
+     mso-list:l7 level1 lfo7;tab-stops:list .5in'>The output of the <code><=
+span
+     style=3D'font-size:10.0pt'>/bin/<span class=3DSpellE>ps</span></span><=
+/code>
+     commands in <code><span style=3D'font-size:10.0pt'>trace11.txt</span><=
+/code>,
+     <code><span style=3D'font-size:10.0pt'>trace12.txt</span></code>, and =
+<code><span
+     style=3D'font-size:10.0pt'>trace13.txt</span></code> will be different=
+ from
+     run to run.&nbsp; However, the running states of any <span class=3DSpe=
+llE><code><span
+     style=3D'font-size:10.0pt'>mysplit</span></code></span> processes in t=
+he
+     output of the <code><span style=3D'font-size:10.0pt'>/bin/<span
+     class=3DSpellE>ps</span></span></code> command should be identical.&nb=
+sp; </li>
+</ul>
+
+<p class=3DMsoNormal style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0=
+pt 274.8pt 320.6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt =
+687.0pt 732.8pt'>We
+reserve the right to run additional checks if we suspect that your program
+generates the &#8220;right&#8221; output for the wrong reason.&nbsp; </p>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+Turn
+In Instructions</h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+<span
+style=3D'font-size:12.0pt;font-weight:normal;mso-bidi-font-weight:bold'>This
+project will be submitted via <span class=3DSpellE>moodle</span>. Be sure t=
+hat
+you have:<o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo8;
+tab-stops:list .5in left 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.=
+6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt=
+'><![if !supportLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:12.0pt;font-weight:=
+normal;
+mso-bidi-font-weight:bold'>Included your full name and email address in the
+comment at the top of <span class=3DSpellE>tsh.c</span><o:p></o:p></span></=
+h2>
+
+<h2 style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo8;
+tab-stops:list .5in left 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.=
+6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt=
+'><![if !supportLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span class=3DGramE><span style=3D'font-size=
+:12.0pt;
+font-weight:normal;mso-bidi-font-weight:bold'>Removed any extraneous print
+statements.</span></span><span style=3D'font-size:12.0pt;font-weight:normal;
+mso-bidi-font-weight:bold'><o:p></o:p></span></h2>
+
+<h2 style=3D'margin-left:.5in;text-indent:-.25in;mso-list:l1 level1 lfo8;
+tab-stops:list .5in left 45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.=
+6pt 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt=
+'><![if !supportLists]><span
+style=3D'font-size:12.0pt;font-family:Symbol;mso-fareast-font-family:Symbol;
+mso-bidi-font-family:Symbol;font-weight:normal;mso-bidi-font-weight:bold'><=
+span
+style=3D'mso-list:Ignore'>&middot;<span style=3D'font:7.0pt "Times New Roma=
+n"'>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+</span></span></span><![endif]><span style=3D'font-size:12.0pt;font-weight:=
+normal;
+mso-bidi-font-weight:bold'>Included any appropriate commentary on your code=
+ in
+a separate README file or as C comments in <span class=3DSpellE>tsh.c</span=
+><o:p></o:p></span></h2>
+
+<h2 style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6p=
+t 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>=
+DUE
+DATE</h2>
+
+<p style=3D'tab-stops:45.8pt 91.6pt 137.4pt 183.2pt 229.0pt 274.8pt 320.6pt=
+ 366.4pt 412.2pt 458.0pt 503.8pt 549.6pt 595.4pt 641.2pt 687.0pt 732.8pt'>1=
+1:55
+pm, Sunday, March 1.<span style=3D'mso-spacerun:yes'>&nbsp; </span></p>
+
+</div>
+
+</body>
+
+</html>
+
+------=_NextPart_01D0453E.4FE23CA0
+Content-Location: file:///C:/C913CB14/Shell-handout_files/themedata.thmx
+Content-Transfer-Encoding: base64
+Content-Type: application/vnd.ms-officetheme
+
+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
+cmVsc1BLBQYAAAAABQAFAF0BAACtCgAAAAA=
+
+------=_NextPart_01D0453E.4FE23CA0
+Content-Location: file:///C:/C913CB14/Shell-handout_files/colorschememapping.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml
+
+<?xml version=3D"1.0" encoding=3D"UTF-8" standalone=3D"yes"?>
+<a:clrMap xmlns:a=3D"http://schemas.openxmlformats.org/drawingml/2006/main"=
+ bg1=3D"lt1" tx1=3D"dk1" bg2=3D"lt2" tx2=3D"dk2" accent1=3D"accent1" accent=
+2=3D"accent2" accent3=3D"accent3" accent4=3D"accent4" accent5=3D"accent5" a=
+ccent6=3D"accent6" hlink=3D"hlink" folHlink=3D"folHlink"/>
+------=_NextPart_01D0453E.4FE23CA0
+Content-Location: file:///C:/C913CB14/Shell-handout_files/filelist.xml
+Content-Transfer-Encoding: quoted-printable
+Content-Type: text/xml; charset="utf-8"
+
+<xml xmlns:o=3D"urn:schemas-microsoft-com:office:office">
+ <o:MainFile HRef=3D"../Shell-handout.htm"/>
+ <o:File HRef=3D"themedata.thmx"/>
+ <o:File HRef=3D"colorschememapping.xml"/>
+ <o:File HRef=3D"filelist.xml"/>
+</xml>
+------=_NextPart_01D0453E.4FE23CA0--
