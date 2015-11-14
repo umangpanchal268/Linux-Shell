@@ -20,3 +20,9 @@ myspin.c	# Takes argument <n> and spins for <n> seconds
 mysplit.c	# Forks a child that spins for <n> seconds
 mystop.c        # Spins for <n> seconds and sends SIGTSTP to itself
 myint.c         # Spins for <n> seconds and sends SIGINT to itself
+
+Author:<br>
+Shaleen Kumar Gupta<br>
+B.Tech. (Hons. in ICT with minors in CS)<br>
+Dhirubhai Ambani Institute of Information and Communication Technology, Gandhinagar<br>
+E-mail: shaleenx@gmail.com
